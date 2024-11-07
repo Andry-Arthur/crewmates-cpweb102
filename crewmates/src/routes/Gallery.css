@@ -1,0 +1,14 @@
+.gallery-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.crewmate {
+    flex: 1 1 20%; /* Adjust the percentage as needed */
+    margin: 10px; /* Adjust the margin as needed */
+}
+
+button {
+    color: black;
+}

@@ -5,7 +5,7 @@ import './Sidebar.css';
 const Sidebar = () => {
     return (
         <div className="sidebar">
-            <h2>Navigation</h2>
+            <h2>Navigation 🚀</h2>
             <ul>
                 <li>
                     <Link to="/">Home</Link>
